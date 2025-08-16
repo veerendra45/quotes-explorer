@@ -1,0 +1,53 @@
+.body-container{
+    text-align: center;
+    background-color: silver ;
+    height: 80vh;
+    padding: 10px;
+    padding-top: 50px;
+}
+
+.spark-img{
+    height: 60px;
+    width: 60px;
+}
+
+.first-para{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.selector {
+    width: 350px;
+    margin: 15px;
+    padding: 10px;        
+    border-radius: 14px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 100px;  
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+  transition: box-shadow 0.2s ease;
+}
+
+.selector:focus {
+  outline: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.last-one-para{
+    font-size: 22px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.last-line{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    color:#423f3f;
+}
+

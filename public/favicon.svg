@@ -1,0 +1,20 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" aria-label="Thinking quotes icon">
+  <defs>
+    <style>
+      .stroke{stroke:#111827;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+      .fill{fill:#111827}
+    </style>
+  </defs>
+  <!-- main thought cloud -->
+  <circle cx="120" cy="110" r="58" fill="white" class="stroke"/>
+  <circle cx="78"  cy="120" r="36" fill="white" class="stroke"/>
+  <circle cx="155" cy="128" r="40" fill="white" class="stroke"/>
+  <!-- thought tail -->
+  <circle cx="170" cy="175" r="12" fill="white" class="stroke"/>
+  <circle cx="188" cy="198" r="8"  fill="white" class="stroke"/>
+  <!-- quote marks inside cloud -->
+  <g transform="translate(90,95)">
+    <text x="0" y="28" font-size="40" font-weight="700" class="fill" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial">“</text>
+    <text x="38" y="28" font-size="40" font-weight="700" class="fill" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial">”</text>
+  </g>
+</svg>
