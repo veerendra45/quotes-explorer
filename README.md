@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#the main thing is i taken a quote api
+
+#It gets the quote, name of author and the category
+
+#then i decided to just show the quote with the author name
+
+#it is simple thing just develope to get a basic knowledge on how api works
+
+#used a global cors
